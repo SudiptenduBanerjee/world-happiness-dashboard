@@ -22,7 +22,7 @@
     ```
 
  ## Deployment
- The app is deployed on Streamlit Community Cloud: [https://sudiptendubanerjee-world-happiness-dashboard.streamlit.app](https://sudiptendubanerjee-world-happiness-dashboard.streamlit.app)
+ The app is deployed on Streamlit Community Cloud: https://world-happiness-dashboard.streamlit.app/
 
  ## Future Improvements
  - Add time-series analysis for multiple years.
